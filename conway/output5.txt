@@ -1,0 +1,3203 @@
+Simulation at 2023-03-06
+Universe size 50 x 50
+
+============= ITERATION 1 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     0     |     0   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     0     |     0   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     0     |
+
+
+============= ITERATION 2 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     4     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     8     |
+
+
+============= ITERATION 3 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     3     |     50   
+   beehives   |     1     |     16   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     2     |     33   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     6     |
+
+
+============= ITERATION 4 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     36   
+   beehives   |     2     |     18   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     5     |     45   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     11     |
+
+
+============= ITERATION 5 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     40   
+   beehives   |     2     |     20   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     4     |     40   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     10     |
+
+
+============= ITERATION 6 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     36   
+   beehives   |     2     |     18   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     5     |     45   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     11     |
+
+
+============= ITERATION 7 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     50   
+   beehives   |     1     |     12   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     3     |     37   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     8     |
+
+
+============= ITERATION 8 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     66   
+   beehives   |     1     |     11   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     2     |     22   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     9     |
+
+
+============= ITERATION 9 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     40   
+   beehives   |     1     |     10   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     5     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     10     |
+
+
+============= ITERATION 10 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     3     |     42   
+   beehives   |     1     |     14   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     3     |     42   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     7     |
+
+
+============= ITERATION 11 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     2     |     50   
+   beehives   |     1     |     25   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     1     |     25   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     4     |
+
+
+============= ITERATION 12 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     3     |     50   
+   beehives   |     1     |     16   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     2     |     33   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     6     |
+
+
+============= ITERATION 13 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     3     |     27   
+   beehives   |     1     |     9   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     9   
+   blinkers   |     6     |     54   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     11     |
+
+
+============= ITERATION 14 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     3     |     27   
+   beehives   |     1     |     9   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     9   
+   blinkers   |     6     |     54   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     11     |
+
+
+============= ITERATION 15 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     38   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     6     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 16 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     30   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     7     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 17 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     33   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 18 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     31   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     9     |     56   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 19 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     35   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 20 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     35   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 21 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     6     |     42   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 22 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     6     |     42   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 23 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 24 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 25 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     35   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     9     |     52   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 26 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 27 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     35   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     9     |     52   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 28 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     40   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     9     |     45   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     1     |     5   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     20     |
+
+
+============= ITERATION 29 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     36   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     9     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     1     |     5   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     19     |
+
+
+============= ITERATION 30 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 31 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 32 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 33 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     38   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     9     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     18     |
+
+
+============= ITERATION 34 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     38   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     9     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     18     |
+
+
+============= ITERATION 35 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     38   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     9     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     18     |
+
+
+============= ITERATION 36 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 37 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 38 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 39 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 40 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 41 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     6     |     42   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 42 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 43 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     6     |     42   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 44 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     6     |     42   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 45 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 46 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     6     |     37   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 47 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     9     |     52   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     6     |     35   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 48 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     6     |     40   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 49 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     2     |     12   
+   blinkers   |     6     |     37   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 50 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     2     |     13   
+   blinkers   |     5     |     33   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 51 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     50   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     5     |     35   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 52 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     5   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 53 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 54 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 55 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 56 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     35   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 57 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     33   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 58 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     35   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 59 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     35   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     7   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 60 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     1     |     6   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 61 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 62 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     6     |     42   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 63 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     6     |     42   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 64 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     6     |     42   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 65 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     35   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 66 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     33   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 67 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     30   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 68 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 69 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     38   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     6     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 70 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     33   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 71 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     38   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     6     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 72 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     38   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     6     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 73 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     38   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     6     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 74 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     38   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     6     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 75 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     38   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     6     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 76 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     28   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     1     |     7   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 77 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     33   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     1     |     6   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 78 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     4     |     28   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     1     |     7   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 79 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     35   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 80 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     29   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     10     |     58   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 81 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     31   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     9     |     56   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 82 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     35   
+   beehives   |     1     |     7   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 83 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 84 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     5     |     31   
+   beehives   |     2     |     12   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 85 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     2     |     11   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     41   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 86 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     35   
+   beehives   |     2     |     11   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 87 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     2     |     12   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 88 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     2     |     12   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 89 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     2     |     12   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 90 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     2     |     12   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 91 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     2     |     11   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     41   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 92 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     2     |     12   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 93 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     2     |     12   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 94 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     35   
+   beehives   |     2     |     11   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 95 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 96 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 97 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 98 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 99 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 100 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 101 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 102 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 103 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 104 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 105 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 106 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 107 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 108 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     37   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 109 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     1     |     6   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 110 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 111 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 112 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 113 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 114 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 115 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 116 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 117 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 118 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 119 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 120 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 121 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 122 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 123 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 124 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 125 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 126 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 127 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 128 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 129 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 130 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 131 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 132 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     7   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 133 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 134 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 135 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 136 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 137 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 138 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     9     |     52   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     41   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 139 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 140 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 141 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 142 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     9     |     52   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     41   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 143 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 144 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 145 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 146 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 147 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 148 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 149 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 150 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 151 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     47   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 152 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     47   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 153 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 154 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     50   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     43   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 155 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 156 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 157 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     46   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 158 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 159 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 160 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 161 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     9     |     52   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 162 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 163 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 164 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     38   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     10     |     55   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     18     |
+
+
+============= ITERATION 165 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 166 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 167 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 168 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 169 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 170 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     41   
+   beehives   |     1     |     5   
+   loafs      |     0     |     0   
+   boats      |     1     |     5   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     47   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 171 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 172 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 173 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 174 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 175 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 176 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 177 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     1     |     6   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     50   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 178 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 179 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 180 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 181 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 182 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 183 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     7     |     43   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     9     |     56   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     16     |
+
+
+============= ITERATION 184 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 185 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 186 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 187 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     40   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     9     |     60   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     15     |
+
+
+============= ITERATION 188 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 189 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 190 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 191 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 192 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 193 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
+============= ITERATION 194 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     35   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     11     |     64   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     17     |
+
+
+============= ITERATION 195 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 196 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 197 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     8     |     44   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     10     |     55   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     18     |
+
+
+============= ITERATION 198 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 199 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     42   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     8     |     57   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     14     |
+
+
+============= ITERATION 200 =============
+   Lifeform   |   Count   |   Percent   
+   block      |     6     |     46   
+   beehives   |     0     |     0   
+   loafs      |     0     |     0   
+   boats      |     0     |     0   
+   tubs       |     0     |     0   
+   blinkers   |     7     |     53   
+   toads      |     0     |     0   
+   beacons    |     0     |     0   
+   gliders    |     0     |     0   
+   LWS ships  |     0     |     0   
+--------------------------------------
+   total      |     13     |
+
+
